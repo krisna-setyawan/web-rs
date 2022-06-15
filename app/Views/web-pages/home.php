@@ -4,7 +4,7 @@
 <!-- CARAOUSEL -->
 <!-- FOR DESKTOP -->
 <div class="div-caraousel">
-    <section class="" style="padding-top: 75px;">
+    <section class="" style="padding-top: 80px;">
         <div id="mycarousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active" data-bs-interval="2000">
@@ -31,7 +31,7 @@
 
 <!-- FOR MOBILE -->
 <div class="div-caraousel-mobile">
-    <section class="" style="padding-top: 80px;">
+    <section class="" style="padding-top: 87px;">
         <div id="mycarousel-mobile" class="carousel slide carousel-fade" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active" data-bs-interval="2000">
@@ -64,7 +64,7 @@
 <section class="container p-3">
     <div class="row">
         <div class="col-lg-3 mb-4">
-            <div class="card shadow" style="border-radius: 5px;">
+            <div class="card shadow border-success pt-4" style="border-radius: 5px;">
                 <div class="text-center">
                     <img src="assets/img/shortcut/<?= $sc_layanan['img'] ?>" alt="" style="background-color: gray; height: 150px; border-top-left-radius: 5px; border-top-right-radius: 5px;">
                 </div>
@@ -79,7 +79,7 @@
             </div>
         </div>
         <div class="col-lg-3 mb-4">
-            <div class="card shadow" style="border-radius: 5px;">
+            <div class="card shadow border-success pt-4" style="border-radius: 5px;">
                 <div class="text-center">
                     <img src="assets/img/shortcut/<?= $sc_dokter['img'] ?>" alt="" style="background-color: gray; height: 150px; border-top-left-radius: 5px; border-top-right-radius: 5px;">
                 </div>
@@ -94,7 +94,7 @@
             </div>
         </div>
         <div class="col-lg-3 mb-4">
-            <div class="card shadow" style="border-radius: 5px;">
+            <div class="card shadow border-success pt-4" style="border-radius: 5px;">
                 <div class="text-center">
                     <img src="assets/img/shortcut/<?= $sc_daftaronline['img'] ?>" alt="" style="background-color: gray; height: 150px; border-top-left-radius: 5px; border-top-right-radius: 5px;">
                 </div>
@@ -109,7 +109,7 @@
             </div>
         </div>
         <div class="col-lg-3 mb-4">
-            <div class="card shadow" style="border-radius: 5px;">
+            <div class="card shadow border-success pt-4" style="border-radius: 5px;">
                 <div class="text-center">
                     <img src="assets/img/shortcut/<?= $sc_telemedicine['img'] ?>" alt="" style="background-color: gray; height: 150px; border-top-left-radius: 5px; border-top-right-radius: 5px;">
                 </div>

@@ -40,6 +40,7 @@ $routes->get('/', 'Home::index');
 
 // ADMIN
 $routes->get('/administrator', 'Admin\Auth::index');
+$routes->get('/header', 'Admin\Header::index');
 
 /*
  * --------------------------------------------------------------------
